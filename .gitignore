@@ -1,4 +1,5 @@
 node_modules
+
 .env
 .env.enc
 .DS_Store
@@ -6,6 +7,9 @@ node_modules
 # Foundry files
 cache_forge/
 out/
+soldeer.lock
+remappings.txt
+dependencies
 
 # Hardhat files
 /cache
